@@ -52,11 +52,5 @@ I'm a passionate software engineer with **7 years of experience** specializing i
 ### 📊 GitHub Stats
 ![Yassal's GitHub stats](https://github-readme-stats.vercel.app/api?username=YassalSabiqoon&show_icons=true&theme=radical)
 
-### 🔥 Streak Stats
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=YassalSabiqoon&theme=radical)
-
-### 📈 Most Used Languages
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YassalSabiqoon&layout=compact&theme=radical)
-
 ---
 ⭐️ From [YassalSabiqoon](https://github.com/YassalSabiqoon)
